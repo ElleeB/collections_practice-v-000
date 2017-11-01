@@ -20,10 +20,6 @@ def swap_elements(array)
   new_array << array[0] << array[1] << array[2]
 end
 
-#def swap_elements_from_to(array, index, destination_index)
-#
-#end
-
 def reverse_array(integers)
   integers.reverse
 end
